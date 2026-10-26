@@ -1,0 +1,10 @@
+{
+  "name": "AegisVision AI - CCTV Attendance & Campus Surveillance Intelligence",
+  "description": "Smart AI CCTV Face Recognition Attendance System featuring real-time intruder alerts, AES-256 encrypted database, offline remote-campus synchronization, multi-factor authentication, faculty leave approval workflows, and historical analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
